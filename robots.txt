@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hawadahhalak-cloud.github.io/apps/sitemap.xml
